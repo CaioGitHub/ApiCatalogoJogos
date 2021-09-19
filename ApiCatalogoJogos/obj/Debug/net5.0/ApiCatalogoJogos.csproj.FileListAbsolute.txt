@@ -43,3 +43,10 @@ E:\Usuários\caiop\source\Visual Studio\repos\ApiCatalogoJogos\ApiCatalogoJogos\
 E:\Usuários\caiop\source\Visual Studio\repos\ApiCatalogoJogos\ApiCatalogoJogos\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 E:\Usuários\caiop\source\Visual Studio\repos\ApiCatalogoJogos\ApiCatalogoJogos\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 E:\Usuários\caiop\source\Visual Studio\repos\ApiCatalogoJogos\ApiCatalogoJogos\obj\Debug\net5.0\ApiCatalogoJogos.MvcApplicationPartsAssemblyInfo.cs
+E:\Usuários\caiop\source\Visual Studio\repos\ApiCatalogoJogos\ApiCatalogoJogos\bin\Debug\net5.0\System.Data.SqlClient.dll
+E:\Usuários\caiop\source\Visual Studio\repos\ApiCatalogoJogos\ApiCatalogoJogos\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+E:\Usuários\caiop\source\Visual Studio\repos\ApiCatalogoJogos\ApiCatalogoJogos\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+E:\Usuários\caiop\source\Visual Studio\repos\ApiCatalogoJogos\ApiCatalogoJogos\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+E:\Usuários\caiop\source\Visual Studio\repos\ApiCatalogoJogos\ApiCatalogoJogos\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Usuários\caiop\source\Visual Studio\repos\ApiCatalogoJogos\ApiCatalogoJogos\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Usuários\caiop\source\Visual Studio\repos\ApiCatalogoJogos\ApiCatalogoJogos\bin\Debug\net5.0\ApiCatalogoJogos.xml
