@@ -50,8 +50,8 @@ namespace ApiCatalogoJogos
             //}
             
             app.UseHttpsRedirection();
-            
-            app.UseStaticFiles();
+
+            //app.UseStaticFiles();
 
             app.UseRouting();
 
@@ -59,7 +59,7 @@ namespace ApiCatalogoJogos
 
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapRazorPages();
+                endpoints.MapControllers();
             });
         }
     }

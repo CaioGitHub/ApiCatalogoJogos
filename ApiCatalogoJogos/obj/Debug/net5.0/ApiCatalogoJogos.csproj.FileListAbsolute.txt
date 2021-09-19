@@ -38,3 +38,8 @@ E:\Usuários\caiop\source\Visual Studio\repos\ApiCatalogoJogos\ApiCatalogoJogos\
 E:\Usuários\caiop\source\Visual Studio\repos\ApiCatalogoJogos\ApiCatalogoJogos\obj\Debug\net5.0\ApiCatalogoJogos.pdb
 E:\Usuários\caiop\source\Visual Studio\repos\ApiCatalogoJogos\ApiCatalogoJogos\obj\Debug\net5.0\ApiCatalogoJogos.genruntimeconfig.cache
 E:\Usuários\caiop\source\Visual Studio\repos\ApiCatalogoJogos\ApiCatalogoJogos\obj\Debug\net5.0\ApiCatalogoJogos.csproj.CopyComplete
+E:\Usuários\caiop\source\Visual Studio\repos\ApiCatalogoJogos\ApiCatalogoJogos\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Usuários\caiop\source\Visual Studio\repos\ApiCatalogoJogos\ApiCatalogoJogos\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Usuários\caiop\source\Visual Studio\repos\ApiCatalogoJogos\ApiCatalogoJogos\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Usuários\caiop\source\Visual Studio\repos\ApiCatalogoJogos\ApiCatalogoJogos\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Usuários\caiop\source\Visual Studio\repos\ApiCatalogoJogos\ApiCatalogoJogos\obj\Debug\net5.0\ApiCatalogoJogos.MvcApplicationPartsAssemblyInfo.cs
